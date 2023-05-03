@@ -1,7 +1,10 @@
 {
   "prenom": {
-    "Appartient": [
-      2
+    "Appartient_A": [
+      {
+      "rule": "regex",
+        "pattern": "^[a-zA-Z]+$"
+      }
     ]
   }
 }
